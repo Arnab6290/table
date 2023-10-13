@@ -1,0 +1,32 @@
+table
+{
+	border-collapse: collapse;
+}
+
+#et
+{
+	background-color: orange;
+	color: white; 	
+	letter-spacing: 15px;
+	height: 45px;
+	font-size: 30px;
+}
+
+th:hover
+{
+  background-color: #a8f092;
+}
+
+tr:nth-child(even) {background-color: #e3a8a1;}
+
+#total
+{
+	background-color: #595757;
+	color: white;
+}
+
+h3:hover
+{
+ background-color: lightskyblue;
+ letter-spacing: 10px;
+}
